@@ -1,4 +1,4 @@
-const socket = require('socket.io-client')('http://http://120.79.220.248:9093');//{'reconnect':false,'auto connect':false}
+const socket = require('socket.io-client')('http://120.79.220.248:9093');//{'reconnect':false,'auto connect':false}
 
 // 获取用户登录后  后端返回监听
 let loginObject = {
