@@ -51965,7 +51965,7 @@ _reactDom2.default.render(_react2.default.createElement(
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
-var socket = __webpack_require__(/*! socket.io-client */ "./node_modules/socket.io-client/lib/index.js")('http://localhost:3001'); //{'reconnect':false,'auto connect':false}
+var socket = __webpack_require__(/*! socket.io-client */ "./node_modules/socket.io-client/lib/index.js")('http://localhost:9093'); //{'reconnect':false,'auto connect':false}
 
 // 获取用户登录后  后端返回监听
 var loginObject = {
@@ -52085,4 +52085,4 @@ exports.gameOverObject = gameOverObject;
 /***/ })
 
 /******/ });
-//# sourceMappingURL=main_556c5b4c.js.map
+//# sourceMappingURL=main_958dc11e.js.map
