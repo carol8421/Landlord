@@ -34,7 +34,7 @@ app.use(function(req, res, next){
 });
 
 //设置socket端口和监听
-var port = 3001;
+var port = 9093;
 app.set('port', port);
 server.listen(port);
 //建立socket连接
