@@ -21,10 +21,10 @@ var pool = mysql.createConnection({
     // database: 'wx',
     // typeCast: true,             // 是否把结果值转换为原生的 javascript 类型
 
-    host     : 'localhost',
+    host     : '120.79.220.248',
     port: '3306',
     user     : 'root',
-    password : '123456',
+    password : 'Fuyf961010',
     database: 'landlord',
     typeCast: true,             // 是否把结果值转换为原生的 javascript 类型
     
