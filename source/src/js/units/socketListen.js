@@ -14,7 +14,7 @@ let getHallInfoObject = {
     callBack:function() {}
 }
 socket.on('getHallInfo', (data) => {
-    getHallInfoObject.callBack(data)
+    getHallInfoObject.callBack(data) 
     
 });
 
