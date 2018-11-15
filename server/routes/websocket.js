@@ -1816,27 +1816,27 @@ function cardContrast(oldData, newData) {
 
             // 顺子 34567
             if (type == 'ShunZi') {
-                return sortHandleNew[0] > sortHandleOld[0] ? true : false;
+                return sortHandleNew.length == sortHandleOld.length && sortHandleNew[0] > sortHandleOld[0] ? true : false;
             }
 
             // 连对334455
             if (type == 'LianDui') {
-                return sortHandleNew[0] > sortHandleOld[0] ? true : false;
+                return sortHandleNew.length == sortHandleOld.length && sortHandleNew[0] > sortHandleOld[0] ? true : false;
             }
 
             // 飞机333444
             if (type == 'Flay') {
-                return sortHandleNew[0] > sortHandleOld[0] ? true : false;
+                return sortHandleNew.length == sortHandleOld.length && sortHandleNew[0] > sortHandleOld[0] ? true : false;
             }
 
             // 飞机带单
             if (type == 'FlayOne') {
-                return cardHandleNew[cardHandleNew.length - 1][0] > cardHandleOld[cardHandleOld.length - 1][0] ? true : false;
+                return cardHandleNew.length == cardHandleOld.length && cardHandleNew[cardHandleNew.length - 1][0] > cardHandleOld[cardHandleOld.length - 1][0] ? true : false;
             }
 
             // 飞机带对
             if (type == 'FlayTwo') {
-                return cardHandleNew[cardHandleNew.length - 1][0] > cardHandleOld[cardHandleOld.length - 1][0] ? true : false;
+                return cardHandleNew.length == cardHandleOld.length && cardHandleNew[cardHandleNew.length - 1][0] > cardHandleOld[cardHandleOld.length - 1][0] ? true : false;
             }
 
             // 炸弹
