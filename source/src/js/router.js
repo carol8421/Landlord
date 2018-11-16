@@ -27,7 +27,7 @@ const store = createStore(Reducer, compose(
     applyMiddleware(ReduxThunk),
     window.devToolsExtension ? window.devToolsExtension() : f => f
 ));
-//路由生成规则, 与 redux 结合.
+//路由生成规则, 与 redux 结合
 const history = syncHistoryWithStore(createBrowserHistory(), store);
 
 ReactDom.render(

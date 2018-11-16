@@ -51924,7 +51924,7 @@ __webpack_require__(/*! ./../css/config.scss */ "./src/css/config.scss");
 var store = (0, _redux.createStore)(_index2.default, (0, _redux.compose)((0, _redux.applyMiddleware)(_reduxThunk2.default), window.devToolsExtension ? window.devToolsExtension() : function (f) {
     return f;
 }));
-//路由生成规则, 与 redux 结合.
+//路由生成规则, 与 redux 结合
 var history = (0, _reactRouterRedux.syncHistoryWithStore)((0, _history.createBrowserHistory)(), store);
 
 _reactDom2.default.render(_react2.default.createElement(
@@ -52086,4 +52086,4 @@ exports.gameOverObject = gameOverObject;
 /***/ })
 
 /******/ });
-//# sourceMappingURL=main_77cf559b.js.map
+//# sourceMappingURL=main_b6f35e1a.js.map
