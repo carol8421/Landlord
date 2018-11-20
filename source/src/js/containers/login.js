@@ -74,7 +74,7 @@ class LoginMain extends React.Component {
                                 <img src={require('../../images/password.png')} alt="" />
                                 <input type="password" onChange={this.inputChange.bind(this, 0, 'password')} />
                             </div>
-                            <div className='login-btn mt30' onClick={() => this.loginBtn()}>
+                            <div className='login-btn mt20' onClick={() => this.loginBtn()}>
                                 <img src={require('../../images/login-btn.png')} alt="" />
                             </div>
                         </div>

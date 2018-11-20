@@ -52,7 +52,7 @@ module.exports={
                     loader:'file-loader',
                     query:{
                         name:'images/[name]_[hash:8].[ext]',
-                        publicPath:'./'
+                        publicPath:'../'
                     }
                 }
             }

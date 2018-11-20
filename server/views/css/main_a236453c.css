@@ -48,7 +48,7 @@ p {
       width: 4rem; }
   #landlord-login .login-dialog {
     width: 80%;
-    height: 70%;
+    height: 80%;
     position: absolute;
     position: relative;
     top: 50%;
@@ -58,16 +58,16 @@ p {
     background-size: 100% 100%; }
     #landlord-login .login-dialog .login-dialog-body {
       width: 80%;
-      height: 55%;
+      height: 80%;
       position: absolute;
-      top: 50%;
+      top: 60%;
       left: 50%;
       transform: translate(-50%, -50%); }
       #landlord-login .login-dialog .login-dialog-body div {
         padding: 0 .5rem;
         font-size: 0; }
         #landlord-login .login-dialog .login-dialog-body div input {
-          width: 5rem;
+          width: 65%;
           height: .8rem;
           margin-left: .4rem;
           padding: 0 .2rem;
@@ -80,9 +80,9 @@ p {
       #landlord-login .login-dialog .login-dialog-body div.mt30 {
         margin-top: .6rem; }
       #landlord-login .login-dialog .login-dialog-body .login-btn {
-        width: 3rem;
-        height: 1rem;
-        line-height: 1.7rem;
+        width: 4rem;
+        height: 1.2rem;
+        line-height: 1.9rem;
         background: url(../images/border_fc81310a.png) no-repeat;
         background-size: 100% 100%;
         margin: 0  auto;
@@ -102,7 +102,7 @@ p {
     clear: both; }
   #landlord-hall .header {
     width: 100%;
-    height: 2rem; }
+    height: 20%; }
     #landlord-hall .header .header-left {
       float: left;
       width: 50%;
@@ -151,13 +151,13 @@ p {
       width: 50%;
       height: 2rem; }
       #landlord-hall .header .header-right img {
-        width: 1rem;
+        width: 1.2rem;
         height: 1rem;
         vertical-align: middle;
         padding-left: .4rem; }
   #landlord-hall .container {
     width: 100%;
-    height: 6rem; }
+    height: 75%; }
     #landlord-hall .container .character-left {
       float: left;
       width: 45%;
@@ -169,32 +169,30 @@ p {
       float: left;
       width: 55%;
       height: 6rem; }
-      #landlord-hall .container .table-right .table-list {
-        padding-bottom: .2rem; }
-        #landlord-hall .container .table-right .table-list li {
-          list-style: none;
-          float: left;
-          width: 50%;
+      #landlord-hall .container .table-right .table-list li {
+        list-style: none;
+        float: left;
+        width: 50%;
+        text-align: center;
+        margin-bottom: .1rem; }
+        #landlord-hall .container .table-right .table-list li img {
+          width: .5rem;
+          height: .5rem;
+          vertical-align: middle; }
+        #landlord-hall .container .table-right .table-list li .table {
+          display: inline-block;
+          width: 1.5rem;
+          height: 1.5rem;
+          line-height: 1rem;
           text-align: center;
-          margin-bottom: .1rem; }
-          #landlord-hall .container .table-right .table-list li img {
-            width: .5rem;
-            height: .5rem;
-            vertical-align: middle; }
-          #landlord-hall .container .table-right .table-list li .table {
-            display: inline-block;
-            width: 1.5rem;
-            height: 1.5rem;
-            line-height: 1rem;
-            text-align: center;
-            background: url(../images/table_7b667149.png) no-repeat;
-            background-size: 100% 100%;
-            margin: .1rem; }
-          #landlord-hall .container .table-right .table-list li .player-bottom {
-            display: block;
-            width: .5rem;
-            height: .5rem;
-            margin: 0 auto; }
+          background: url(../images/table_7b667149.png) no-repeat;
+          background-size: 100% 100%;
+          margin: .1rem; }
+        #landlord-hall .container .table-right .table-list li .player-bottom {
+          display: block;
+          width: .5rem;
+          height: .5rem;
+          margin: 0 auto; }
       #landlord-hall .container .table-right .fast-action {
         width: 3rem;
         height: 1rem;
@@ -582,4 +580,4 @@ p {
           margin-right: .4rem; }
 
 
-/*# sourceMappingURL=.main_4c7c170d.css.map*/
+/*# sourceMappingURL=main_a236453c.css.map*/
