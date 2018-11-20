@@ -37,7 +37,7 @@ p {
 #landlord-login {
   width: 100%;
   height: 100%;
-  background: url(./images/login-bg2_d275bbe2.jpg) no-repeat;
+  background: url(../images/login-bg2_d275bbe2.jpg) no-repeat;
   background-size: 100% 100%;
   position: relative; }
   #landlord-login .action-btn {
@@ -54,7 +54,7 @@ p {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: url(./images/login-dialog_63fe6f6a.png) no-repeat;
+    background: url(../images/login-dialog_63fe6f6a.png) no-repeat;
     background-size: 100% 100%; }
     #landlord-login .login-dialog .login-dialog-body {
       width: 80%;
@@ -83,7 +83,7 @@ p {
         width: 3rem;
         height: 1rem;
         line-height: 1.7rem;
-        background: url(./images/border_fc81310a.png) no-repeat;
+        background: url(../images/border_fc81310a.png) no-repeat;
         background-size: 100% 100%;
         margin: 0  auto;
         text-align: center; }
@@ -96,7 +96,7 @@ p {
 #landlord-hall {
   width: 100%;
   height: 100%;
-  background: url(./images/hall5_a6ec6253.jpg) no-repeat;
+  background: url(../images/hall5_a6ec6253.jpg) no-repeat;
   background-size: 100% 100%; }
   #landlord-hall .clear {
     clear: both; }
@@ -115,7 +115,7 @@ p {
         width: 1.5rem;
         height: 1.5rem;
         position: relative;
-        background: url(./images/head-border_7a3b68b2.png) no-repeat;
+        background: url(../images/head-border_7a3b68b2.png) no-repeat;
         background-size: 100% 100%; }
         #landlord-hall .header .header-left .head img {
           width: 80%;
@@ -187,7 +187,7 @@ p {
             height: 1.5rem;
             line-height: 1rem;
             text-align: center;
-            background: url(./images/table_7b667149.png) no-repeat;
+            background: url(../images/table_7b667149.png) no-repeat;
             background-size: 100% 100%;
             margin: .1rem; }
           #landlord-hall .container .table-right .table-list li .player-bottom {
@@ -204,13 +204,13 @@ p {
         font-weight: 700;
         color: #FDF5E3;
         text-align: center;
-        background: url(./images/border_fc81310a.png) no-repeat;
+        background: url(../images/border_fc81310a.png) no-repeat;
         background-size: 100% 100%; }
 
 #landlord-room {
   width: 100%;
   height: 100%;
-  background: url(./images/room-bj4_06e1e653.png) no-repeat;
+  background: url(../images/room-bj4_06e1e653.png) no-repeat;
   background-size: 100% 100%; }
   #landlord-room .hidden {
     visibility: hidden; }
@@ -273,7 +273,7 @@ p {
       height: 2.2rem;
       margin-top: .2rem; }
       #landlord-room .room-container .room-container-player .isReady {
-        background: url(./images/border_fc81310a.png) no-repeat;
+        background: url(../images/border_fc81310a.png) no-repeat;
         background-size: 100% 100%;
         margin: 0 auto;
         width: 1.7rem;
@@ -315,7 +315,7 @@ p {
               font-size: .4rem;
               font-weight: 700;
               color: #F8F8FF;
-              background: url(./images/card_back_03bf3297.png) no-repeat;
+              background: url(../images/card_back_03bf3297.png) no-repeat;
               background-size: 100% 100%;
               margin-top: .1rem; }
         #landlord-room .room-container .room-container-player .room-container-player-left .out-brand {
@@ -337,7 +337,7 @@ p {
             height: 1rem;
             line-height: 1.1rem;
             text-align: center;
-            background: url(./images/timer_29dd1a89.png) no-repeat;
+            background: url(../images/timer_29dd1a89.png) no-repeat;
             background-size: 100% 100%;
             position: absolute;
             top: 25%;
@@ -345,7 +345,7 @@ p {
           #landlord-room .room-container .room-container-player .room-container-player-left .out-brand .is-landlord {
             width: 1.2rem;
             height: .5rem;
-            background: url(./images/play-landlord_f9ec165f.png) no-repeat;
+            background: url(../images/play-landlord_f9ec165f.png) no-repeat;
             background-size: 100% 100%;
             position: absolute;
             top: 40%;
@@ -399,7 +399,7 @@ p {
               font-size: .4rem;
               font-weight: 700;
               color: #F8F8FF;
-              background: url(./images/card_back_03bf3297.png) no-repeat;
+              background: url(../images/card_back_03bf3297.png) no-repeat;
               background-size: 100% 100%;
               margin-top: .1rem;
               float: right; }
@@ -422,7 +422,7 @@ p {
             height: 1rem;
             line-height: 1.1rem;
             text-align: center;
-            background: url(./images/timer_29dd1a89.png) no-repeat;
+            background: url(../images/timer_29dd1a89.png) no-repeat;
             background-size: 100% 100%;
             position: absolute;
             top: 25%;
@@ -430,7 +430,7 @@ p {
           #landlord-room .room-container .room-container-player .room-container-player-right .out-brand .is-landlord {
             width: 1.2rem;
             height: .5rem;
-            background: url(./images/play-landlord_f9ec165f.png) no-repeat;
+            background: url(../images/play-landlord_f9ec165f.png) no-repeat;
             background-size: 100% 100%;
             position: absolute;
             top: 40%;
@@ -473,7 +473,7 @@ p {
           font-weight: 700;
           color: #FDF5E3; }
         #landlord-room .room-container .my-show-brand .my-operating .ready {
-          background: url(./images/border_fc81310a.png) no-repeat;
+          background: url(../images/border_fc81310a.png) no-repeat;
           background-size: 100% 100%;
           margin: 0 auto; }
         #landlord-room .room-container .my-show-brand .my-operating .isplayLandlordTitle {
@@ -482,26 +482,26 @@ p {
           font-size: .35rem; }
         #landlord-room .room-container .my-show-brand .my-operating .not-out {
           float: left;
-          background: url(./images/border_fc81310a.png) no-repeat;
+          background: url(../images/border_fc81310a.png) no-repeat;
           background-size: 100% 100%; }
         #landlord-room .room-container .my-show-brand .my-operating .play-card {
           float: right;
-          background: url(./images/border_fc81310a.png) no-repeat;
+          background: url(../images/border_fc81310a.png) no-repeat;
           background-size: 100% 100%; }
         #landlord-room .room-container .my-show-brand .my-operating .not-landlord {
           float: left;
-          background: url(./images/border_fc81310a.png) no-repeat;
+          background: url(../images/border_fc81310a.png) no-repeat;
           background-size: 100% 100%; }
         #landlord-room .room-container .my-show-brand .my-operating .play-landlord {
           float: right;
-          background: url(./images/border_fc81310a.png) no-repeat;
+          background: url(../images/border_fc81310a.png) no-repeat;
           background-size: 100% 100%; }
         #landlord-room .room-container .my-show-brand .my-operating .timer {
           width: 1rem;
           height: 1rem;
           line-height: 1.1rem;
           text-align: center;
-          background: url(./images/timer_29dd1a89.png) no-repeat;
+          background: url(../images/timer_29dd1a89.png) no-repeat;
           background-size: 100% 100%;
           position: absolute;
           left: 42%; }
@@ -582,4 +582,4 @@ p {
           margin-right: .4rem; }
 
 
-/*# sourceMappingURL=main_db5f0617.css.map*/
+/*# sourceMappingURL=.main_4c7c170d.css.map*/
