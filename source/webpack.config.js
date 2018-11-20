@@ -26,7 +26,7 @@ module.exports={
     output:{
         path:sourcePath[WEBPACK_PRO_ENV],
         filename:'js/main_[hash:8].js',
-        publicPath:'/',
+        publicPath:'./',
     },
     mode:'development',
     devtool :"#source-map",
@@ -52,7 +52,7 @@ module.exports={
                     loader:'file-loader',
                     query:{
                         name:'images/[name]_[hash:8].[ext]',
-                        publicPath:'../'
+                        publicPath:'./'
                     }
                 }
             }

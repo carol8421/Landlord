@@ -5,7 +5,7 @@ import React from 'react';
 import ReactDom from 'react-dom';
 require('./../css/index.scss');
 require('./../css/config.scss');
-import {Router, Route, Link, BrowserRouter} from 'react-router-dom';
+import {Router, Route, Link, HashRouter} from 'react-router-dom';
 import {syncHistoryWithStore} from 'react-router-redux';
 import {Provider} from 'react-redux';
 import {createBrowserHistory, createHashHistory, createMemoryHistory} from 'history';
@@ -33,7 +33,7 @@ const history = syncHistoryWithStore(createBrowserHistory(), store);
 ReactDom.render(
     <Provider store={store}>
         <Router history={history}>
-            <BrowserRouter>
+            <HashRouter>
                 <div className='h100'>
                     <Route exact path="/" component={Index}/>
                     <Route path="/about" component={About}/>
@@ -43,7 +43,7 @@ ReactDom.render(
                     <Route path="/hall" component={Hall}/>
                     <Route path="/room/:id" component={Room}/>
                 </div>
-            </BrowserRouter>
+            </HashRouter>
         </Router>
     </Provider>,
     document.getElementById('content')

@@ -77,7 +77,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/";
+/******/ 	__webpack_require__.p = "./";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
@@ -47787,7 +47787,7 @@ webpackContext.id = "./src/images sync recursive ^\\.\\/.*\\.png$";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/Landlord_ae4d80f7.png";
+module.exports = "./images/Landlord_ae4d80f7.png";
 
 /***/ }),
 
@@ -47798,7 +47798,7 @@ module.exports = "../images/Landlord_ae4d80f7.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/Vacancy_0d3d9051.png";
+module.exports = "./images/Vacancy_0d3d9051.png";
 
 /***/ }),
 
@@ -47809,7 +47809,7 @@ module.exports = "../images/Vacancy_0d3d9051.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/account_c8a6bd29.png";
+module.exports = "./images/account_c8a6bd29.png";
 
 /***/ }),
 
@@ -47820,7 +47820,7 @@ module.exports = "../images/account_c8a6bd29.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/action-btn_2b8a856a.png";
+module.exports = "./images/action-btn_2b8a856a.png";
 
 /***/ }),
 
@@ -47831,7 +47831,7 @@ module.exports = "../images/action-btn_2b8a856a.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/baddie_9b06de9e.png";
+module.exports = "./images/baddie_9b06de9e.png";
 
 /***/ }),
 
@@ -47842,7 +47842,7 @@ module.exports = "../images/baddie_9b06de9e.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/beans_4319573b.png";
+module.exports = "./images/beans_4319573b.png";
 
 /***/ }),
 
@@ -47853,7 +47853,7 @@ module.exports = "../images/beans_4319573b.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/beans2_4ad2eb62.png";
+module.exports = "./images/beans2_4ad2eb62.png";
 
 /***/ }),
 
@@ -47864,7 +47864,7 @@ module.exports = "../images/beans2_4ad2eb62.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/bomb_185c1ec9.png";
+module.exports = "./images/bomb_185c1ec9.png";
 
 /***/ }),
 
@@ -47875,7 +47875,7 @@ module.exports = "../images/bomb_185c1ec9.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/border_fc81310a.png";
+module.exports = "./images/border_fc81310a.png";
 
 /***/ }),
 
@@ -47973,7 +47973,7 @@ webpackContext.id = "./src/images/card sync recursive ^\\.\\/card_.*\\.png$";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_1_0789a848.png";
+module.exports = "./images/card_1_0789a848.png";
 
 /***/ }),
 
@@ -47984,7 +47984,7 @@ module.exports = "../images/card_1_0789a848.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_10_b7b6cd16.png";
+module.exports = "./images/card_10_b7b6cd16.png";
 
 /***/ }),
 
@@ -47995,7 +47995,7 @@ module.exports = "../images/card_10_b7b6cd16.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_11_9fa2c77c.png";
+module.exports = "./images/card_11_9fa2c77c.png";
 
 /***/ }),
 
@@ -48006,7 +48006,7 @@ module.exports = "../images/card_11_9fa2c77c.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_12_b9713e4b.png";
+module.exports = "./images/card_12_b9713e4b.png";
 
 /***/ }),
 
@@ -48017,7 +48017,7 @@ module.exports = "../images/card_12_b9713e4b.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_13_cc01b805.png";
+module.exports = "./images/card_13_cc01b805.png";
 
 /***/ }),
 
@@ -48028,7 +48028,7 @@ module.exports = "../images/card_13_cc01b805.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_14_c4ec3a7b.png";
+module.exports = "./images/card_14_c4ec3a7b.png";
 
 /***/ }),
 
@@ -48039,7 +48039,7 @@ module.exports = "../images/card_14_c4ec3a7b.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_15_8fb4768f.png";
+module.exports = "./images/card_15_8fb4768f.png";
 
 /***/ }),
 
@@ -48050,7 +48050,7 @@ module.exports = "../images/card_15_8fb4768f.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_16_23f25553.png";
+module.exports = "./images/card_16_23f25553.png";
 
 /***/ }),
 
@@ -48061,7 +48061,7 @@ module.exports = "../images/card_16_23f25553.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_17_40a6131e.png";
+module.exports = "./images/card_17_40a6131e.png";
 
 /***/ }),
 
@@ -48072,7 +48072,7 @@ module.exports = "../images/card_17_40a6131e.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_18_ae8f9981.png";
+module.exports = "./images/card_18_ae8f9981.png";
 
 /***/ }),
 
@@ -48083,7 +48083,7 @@ module.exports = "../images/card_18_ae8f9981.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_19_74f6917e.png";
+module.exports = "./images/card_19_74f6917e.png";
 
 /***/ }),
 
@@ -48094,7 +48094,7 @@ module.exports = "../images/card_19_74f6917e.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_2_1e882338.png";
+module.exports = "./images/card_2_1e882338.png";
 
 /***/ }),
 
@@ -48105,7 +48105,7 @@ module.exports = "../images/card_2_1e882338.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_20_fbea8b84.png";
+module.exports = "./images/card_20_fbea8b84.png";
 
 /***/ }),
 
@@ -48116,7 +48116,7 @@ module.exports = "../images/card_20_fbea8b84.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_21_e6ab2030.png";
+module.exports = "./images/card_21_e6ab2030.png";
 
 /***/ }),
 
@@ -48127,7 +48127,7 @@ module.exports = "../images/card_21_e6ab2030.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_22_a46d798b.png";
+module.exports = "./images/card_22_a46d798b.png";
 
 /***/ }),
 
@@ -48138,7 +48138,7 @@ module.exports = "../images/card_22_a46d798b.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_23_59efb04b.png";
+module.exports = "./images/card_23_59efb04b.png";
 
 /***/ }),
 
@@ -48149,7 +48149,7 @@ module.exports = "../images/card_23_59efb04b.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_24_8041698b.png";
+module.exports = "./images/card_24_8041698b.png";
 
 /***/ }),
 
@@ -48160,7 +48160,7 @@ module.exports = "../images/card_24_8041698b.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_25_b0f6470c.png";
+module.exports = "./images/card_25_b0f6470c.png";
 
 /***/ }),
 
@@ -48171,7 +48171,7 @@ module.exports = "../images/card_25_b0f6470c.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_26_90718ac4.png";
+module.exports = "./images/card_26_90718ac4.png";
 
 /***/ }),
 
@@ -48182,7 +48182,7 @@ module.exports = "../images/card_26_90718ac4.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_27_e70ecb24.png";
+module.exports = "./images/card_27_e70ecb24.png";
 
 /***/ }),
 
@@ -48193,7 +48193,7 @@ module.exports = "../images/card_27_e70ecb24.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_28_03cd9bb6.png";
+module.exports = "./images/card_28_03cd9bb6.png";
 
 /***/ }),
 
@@ -48204,7 +48204,7 @@ module.exports = "../images/card_28_03cd9bb6.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_29_7957776a.png";
+module.exports = "./images/card_29_7957776a.png";
 
 /***/ }),
 
@@ -48215,7 +48215,7 @@ module.exports = "../images/card_29_7957776a.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_3_f67a4fe8.png";
+module.exports = "./images/card_3_f67a4fe8.png";
 
 /***/ }),
 
@@ -48226,7 +48226,7 @@ module.exports = "../images/card_3_f67a4fe8.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_30_c1d5ce0a.png";
+module.exports = "./images/card_30_c1d5ce0a.png";
 
 /***/ }),
 
@@ -48237,7 +48237,7 @@ module.exports = "../images/card_30_c1d5ce0a.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_31_541803f1.png";
+module.exports = "./images/card_31_541803f1.png";
 
 /***/ }),
 
@@ -48248,7 +48248,7 @@ module.exports = "../images/card_31_541803f1.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_32_0846d1f4.png";
+module.exports = "./images/card_32_0846d1f4.png";
 
 /***/ }),
 
@@ -48259,7 +48259,7 @@ module.exports = "../images/card_32_0846d1f4.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_33_ba9aac55.png";
+module.exports = "./images/card_33_ba9aac55.png";
 
 /***/ }),
 
@@ -48270,7 +48270,7 @@ module.exports = "../images/card_33_ba9aac55.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_34_0e636b55.png";
+module.exports = "./images/card_34_0e636b55.png";
 
 /***/ }),
 
@@ -48281,7 +48281,7 @@ module.exports = "../images/card_34_0e636b55.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_35_b7b5f1b6.png";
+module.exports = "./images/card_35_b7b5f1b6.png";
 
 /***/ }),
 
@@ -48292,7 +48292,7 @@ module.exports = "../images/card_35_b7b5f1b6.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_36_75e4dcd9.png";
+module.exports = "./images/card_36_75e4dcd9.png";
 
 /***/ }),
 
@@ -48303,7 +48303,7 @@ module.exports = "../images/card_36_75e4dcd9.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_37_3d7ef934.png";
+module.exports = "./images/card_37_3d7ef934.png";
 
 /***/ }),
 
@@ -48314,7 +48314,7 @@ module.exports = "../images/card_37_3d7ef934.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_38_962ba5dc.png";
+module.exports = "./images/card_38_962ba5dc.png";
 
 /***/ }),
 
@@ -48325,7 +48325,7 @@ module.exports = "../images/card_38_962ba5dc.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_39_91ece884.png";
+module.exports = "./images/card_39_91ece884.png";
 
 /***/ }),
 
@@ -48336,7 +48336,7 @@ module.exports = "../images/card_39_91ece884.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_4_ccb6c9b8.png";
+module.exports = "./images/card_4_ccb6c9b8.png";
 
 /***/ }),
 
@@ -48347,7 +48347,7 @@ module.exports = "../images/card_4_ccb6c9b8.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_40_63bd1888.png";
+module.exports = "./images/card_40_63bd1888.png";
 
 /***/ }),
 
@@ -48358,7 +48358,7 @@ module.exports = "../images/card_40_63bd1888.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_41_1a43ae33.png";
+module.exports = "./images/card_41_1a43ae33.png";
 
 /***/ }),
 
@@ -48369,7 +48369,7 @@ module.exports = "../images/card_41_1a43ae33.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_42_7c8b1633.png";
+module.exports = "./images/card_42_7c8b1633.png";
 
 /***/ }),
 
@@ -48380,7 +48380,7 @@ module.exports = "../images/card_42_7c8b1633.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_43_77098c5f.png";
+module.exports = "./images/card_43_77098c5f.png";
 
 /***/ }),
 
@@ -48391,7 +48391,7 @@ module.exports = "../images/card_43_77098c5f.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_44_dd36a88a.png";
+module.exports = "./images/card_44_dd36a88a.png";
 
 /***/ }),
 
@@ -48402,7 +48402,7 @@ module.exports = "../images/card_44_dd36a88a.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_45_147c3e08.png";
+module.exports = "./images/card_45_147c3e08.png";
 
 /***/ }),
 
@@ -48413,7 +48413,7 @@ module.exports = "../images/card_45_147c3e08.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_46_397bb2ab.png";
+module.exports = "./images/card_46_397bb2ab.png";
 
 /***/ }),
 
@@ -48424,7 +48424,7 @@ module.exports = "../images/card_46_397bb2ab.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_47_476cdf63.png";
+module.exports = "./images/card_47_476cdf63.png";
 
 /***/ }),
 
@@ -48435,7 +48435,7 @@ module.exports = "../images/card_47_476cdf63.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_48_c98a9e7f.png";
+module.exports = "./images/card_48_c98a9e7f.png";
 
 /***/ }),
 
@@ -48446,7 +48446,7 @@ module.exports = "../images/card_48_c98a9e7f.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_49_16e9c0a4.png";
+module.exports = "./images/card_49_16e9c0a4.png";
 
 /***/ }),
 
@@ -48457,7 +48457,7 @@ module.exports = "../images/card_49_16e9c0a4.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_5_59872a0c.png";
+module.exports = "./images/card_5_59872a0c.png";
 
 /***/ }),
 
@@ -48468,7 +48468,7 @@ module.exports = "../images/card_5_59872a0c.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_50_e7ced2d6.png";
+module.exports = "./images/card_50_e7ced2d6.png";
 
 /***/ }),
 
@@ -48479,7 +48479,7 @@ module.exports = "../images/card_50_e7ced2d6.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_51_53452e53.png";
+module.exports = "./images/card_51_53452e53.png";
 
 /***/ }),
 
@@ -48490,7 +48490,7 @@ module.exports = "../images/card_51_53452e53.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_52_e6647550.png";
+module.exports = "./images/card_52_e6647550.png";
 
 /***/ }),
 
@@ -48501,7 +48501,7 @@ module.exports = "../images/card_52_e6647550.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_53_b2ef33fc.png";
+module.exports = "./images/card_53_b2ef33fc.png";
 
 /***/ }),
 
@@ -48512,7 +48512,7 @@ module.exports = "../images/card_53_b2ef33fc.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_54_85a1ee0e.png";
+module.exports = "./images/card_54_85a1ee0e.png";
 
 /***/ }),
 
@@ -48523,7 +48523,7 @@ module.exports = "../images/card_54_85a1ee0e.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_6_2077ac88.png";
+module.exports = "./images/card_6_2077ac88.png";
 
 /***/ }),
 
@@ -48534,7 +48534,7 @@ module.exports = "../images/card_6_2077ac88.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_7_7f9dfbdc.png";
+module.exports = "./images/card_7_7f9dfbdc.png";
 
 /***/ }),
 
@@ -48545,7 +48545,7 @@ module.exports = "../images/card_7_7f9dfbdc.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_8_ffcaa17c.png";
+module.exports = "./images/card_8_ffcaa17c.png";
 
 /***/ }),
 
@@ -48556,7 +48556,7 @@ module.exports = "../images/card_8_ffcaa17c.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_9_9500cf28.png";
+module.exports = "./images/card_9_9500cf28.png";
 
 /***/ }),
 
@@ -48567,7 +48567,7 @@ module.exports = "../images/card_9_9500cf28.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/card_back_03bf3297.png";
+module.exports = "./images/card_back_03bf3297.png";
 
 /***/ }),
 
@@ -48578,7 +48578,7 @@ module.exports = "../images/card_back_03bf3297.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/character_0c4739fd.png";
+module.exports = "./images/character_0c4739fd.png";
 
 /***/ }),
 
@@ -48589,7 +48589,7 @@ module.exports = "../images/character_0c4739fd.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/character2_e36e4d27.png";
+module.exports = "./images/character2_e36e4d27.png";
 
 /***/ }),
 
@@ -48600,7 +48600,7 @@ module.exports = "../images/character2_e36e4d27.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/character3_001a4d45.png";
+module.exports = "./images/character3_001a4d45.png";
 
 /***/ }),
 
@@ -48611,7 +48611,7 @@ module.exports = "../images/character3_001a4d45.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/character5_e4cfd6f7.png";
+module.exports = "./images/character5_e4cfd6f7.png";
 
 /***/ }),
 
@@ -48622,7 +48622,7 @@ module.exports = "../images/character5_e4cfd6f7.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/close_48a5a3e4.png";
+module.exports = "./images/close_48a5a3e4.png";
 
 /***/ }),
 
@@ -48633,7 +48633,7 @@ module.exports = "../images/close_48a5a3e4.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/diamond_b886fafb.png";
+module.exports = "./images/diamond_b886fafb.png";
 
 /***/ }),
 
@@ -48644,7 +48644,7 @@ module.exports = "../images/diamond_b886fafb.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/dude_8615288f.png";
+module.exports = "./images/dude_8615288f.png";
 
 /***/ }),
 
@@ -48655,7 +48655,7 @@ module.exports = "../images/dude_8615288f.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/exit_e79fc92c.png";
+module.exports = "./images/exit_e79fc92c.png";
 
 /***/ }),
 
@@ -48666,7 +48666,7 @@ module.exports = "../images/exit_e79fc92c.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/expression_11132d8c.png";
+module.exports = "./images/expression_11132d8c.png";
 
 /***/ }),
 
@@ -48677,7 +48677,7 @@ module.exports = "../images/expression_11132d8c.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/farmer_5b331b9f.png";
+module.exports = "./images/farmer_5b331b9f.png";
 
 /***/ }),
 
@@ -48688,7 +48688,7 @@ module.exports = "../images/farmer_5b331b9f.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/firstaid_d97f08d7.png";
+module.exports = "./images/firstaid_d97f08d7.png";
 
 /***/ }),
 
@@ -48699,7 +48699,7 @@ module.exports = "../images/firstaid_d97f08d7.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/hall_a345a61a.png";
+module.exports = "./images/hall_a345a61a.png";
 
 /***/ }),
 
@@ -48710,7 +48710,7 @@ module.exports = "../images/hall_a345a61a.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/head-border_7a3b68b2.png";
+module.exports = "./images/head-border_7a3b68b2.png";
 
 /***/ }),
 
@@ -48721,7 +48721,7 @@ module.exports = "../images/head-border_7a3b68b2.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/head_ce4d719b.png";
+module.exports = "./images/head_ce4d719b.png";
 
 /***/ }),
 
@@ -48732,7 +48732,7 @@ module.exports = "../images/head_ce4d719b.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/hosting_ae2d6f47.png";
+module.exports = "./images/hosting_ae2d6f47.png";
 
 /***/ }),
 
@@ -48743,7 +48743,7 @@ module.exports = "../images/hosting_ae2d6f47.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/info_477094ef.png";
+module.exports = "./images/info_477094ef.png";
 
 /***/ }),
 
@@ -48754,7 +48754,7 @@ module.exports = "../images/info_477094ef.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/login-btn_2d5b16d5.png";
+module.exports = "./images/login-btn_2d5b16d5.png";
 
 /***/ }),
 
@@ -48765,7 +48765,7 @@ module.exports = "../images/login-btn_2d5b16d5.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/login-dialog_63fe6f6a.png";
+module.exports = "./images/login-dialog_63fe6f6a.png";
 
 /***/ }),
 
@@ -48776,7 +48776,7 @@ module.exports = "../images/login-dialog_63fe6f6a.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/not-out_a52fd739.png";
+module.exports = "./images/not-out_a52fd739.png";
 
 /***/ }),
 
@@ -48787,7 +48787,7 @@ module.exports = "../images/not-out_a52fd739.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/out-landlord_3e250bfd.png";
+module.exports = "./images/out-landlord_3e250bfd.png";
 
 /***/ }),
 
@@ -48798,7 +48798,7 @@ module.exports = "../images/out-landlord_3e250bfd.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/password_6b5c85a1.png";
+module.exports = "./images/password_6b5c85a1.png";
 
 /***/ }),
 
@@ -48809,7 +48809,7 @@ module.exports = "../images/password_6b5c85a1.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/platform_fc7d654a.png";
+module.exports = "./images/platform_fc7d654a.png";
 
 /***/ }),
 
@@ -48820,7 +48820,7 @@ module.exports = "../images/platform_fc7d654a.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/play-card_a23b44e0.png";
+module.exports = "./images/play-card_a23b44e0.png";
 
 /***/ }),
 
@@ -48831,7 +48831,7 @@ module.exports = "../images/play-card_a23b44e0.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/play-landlord_f9ec165f.png";
+module.exports = "./images/play-landlord_f9ec165f.png";
 
 /***/ }),
 
@@ -48842,7 +48842,7 @@ module.exports = "../images/play-landlord_f9ec165f.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/player1_68586e70.png";
+module.exports = "./images/player1_68586e70.png";
 
 /***/ }),
 
@@ -48853,7 +48853,7 @@ module.exports = "../images/player1_68586e70.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/player2_4f1627f8.png";
+module.exports = "./images/player2_4f1627f8.png";
 
 /***/ }),
 
@@ -48864,7 +48864,7 @@ module.exports = "../images/player2_4f1627f8.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/player3_798ec68c.png";
+module.exports = "./images/player3_798ec68c.png";
 
 /***/ }),
 
@@ -48875,7 +48875,7 @@ module.exports = "../images/player3_798ec68c.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/player4_88696051.png";
+module.exports = "./images/player4_88696051.png";
 
 /***/ }),
 
@@ -48886,7 +48886,7 @@ module.exports = "../images/player4_88696051.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/player5_995082aa.png";
+module.exports = "./images/player5_995082aa.png";
 
 /***/ }),
 
@@ -48897,7 +48897,7 @@ module.exports = "../images/player5_995082aa.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/player6_d8b146e0.png";
+module.exports = "./images/player6_d8b146e0.png";
 
 /***/ }),
 
@@ -48908,7 +48908,7 @@ module.exports = "../images/player6_d8b146e0.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/player7_b7b9b30f.png";
+module.exports = "./images/player7_b7b9b30f.png";
 
 /***/ }),
 
@@ -48919,7 +48919,7 @@ module.exports = "../images/player7_b7b9b30f.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/player8_a4ca9df1.png";
+module.exports = "./images/player8_a4ca9df1.png";
 
 /***/ }),
 
@@ -48930,7 +48930,7 @@ module.exports = "../images/player8_a4ca9df1.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/room-bj4_06e1e653.png";
+module.exports = "./images/room-bj4_06e1e653.png";
 
 /***/ }),
 
@@ -48941,7 +48941,7 @@ module.exports = "../images/room-bj4_06e1e653.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/room1_f9fd36f9.png";
+module.exports = "./images/room1_f9fd36f9.png";
 
 /***/ }),
 
@@ -48952,7 +48952,7 @@ module.exports = "../images/room1_f9fd36f9.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/room2_f097ab28.png";
+module.exports = "./images/room2_f097ab28.png";
 
 /***/ }),
 
@@ -48963,7 +48963,7 @@ module.exports = "../images/room2_f097ab28.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/room3_19105b4b.png";
+module.exports = "./images/room3_19105b4b.png";
 
 /***/ }),
 
@@ -48974,7 +48974,7 @@ module.exports = "../images/room3_19105b4b.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/room4_b33d1286.png";
+module.exports = "./images/room4_b33d1286.png";
 
 /***/ }),
 
@@ -48985,7 +48985,7 @@ module.exports = "../images/room4_b33d1286.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/say_a6f56fb7.png";
+module.exports = "./images/say_a6f56fb7.png";
 
 /***/ }),
 
@@ -48996,7 +48996,7 @@ module.exports = "../images/say_a6f56fb7.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/setting_b3f20a87.png";
+module.exports = "./images/setting_b3f20a87.png";
 
 /***/ }),
 
@@ -49007,7 +49007,7 @@ module.exports = "../images/setting_b3f20a87.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/sky_cb8fe210.png";
+module.exports = "./images/sky_cb8fe210.png";
 
 /***/ }),
 
@@ -49018,7 +49018,7 @@ module.exports = "../images/sky_cb8fe210.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/star_3bbfad74.png";
+module.exports = "./images/star_3bbfad74.png";
 
 /***/ }),
 
@@ -49029,7 +49029,7 @@ module.exports = "../images/star_3bbfad74.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/store_28b20377.png";
+module.exports = "./images/store_28b20377.png";
 
 /***/ }),
 
@@ -49040,7 +49040,7 @@ module.exports = "../images/store_28b20377.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/table_7b667149.png";
+module.exports = "./images/table_7b667149.png";
 
 /***/ }),
 
@@ -49051,7 +49051,7 @@ module.exports = "../images/table_7b667149.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/task_22c9bcb7.png";
+module.exports = "./images/task_22c9bcb7.png";
 
 /***/ }),
 
@@ -49062,7 +49062,7 @@ module.exports = "../images/task_22c9bcb7.png";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "../images/timer_29dd1a89.png";
+module.exports = "./images/timer_29dd1a89.png";
 
 /***/ }),
 
@@ -51934,7 +51934,7 @@ _reactDom2.default.render(_react2.default.createElement(
         _reactRouterDom.Router,
         { history: history },
         _react2.default.createElement(
-            _reactRouterDom.BrowserRouter,
+            _reactRouterDom.HashRouter,
             null,
             _react2.default.createElement(
                 'div',
@@ -51965,8 +51965,8 @@ _reactDom2.default.render(_react2.default.createElement(
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
-var socket = __webpack_require__(/*! socket.io-client */ "./node_modules/socket.io-client/lib/index.js")('http://120.79.220.248:9093'); //{'reconnect':false,'auto connect':false}
-// const socket = require('socket.io-client')('http://localhost:9093');//{'reconnect':false,'auto connect':false}
+// const socket = require('socket.io-client')('http://120.79.220.248:9093');//{'reconnect':false,'auto connect':false}
+var socket = __webpack_require__(/*! socket.io-client */ "./node_modules/socket.io-client/lib/index.js")('http://172.16.12.145:9093'); //{'reconnect':false,'auto connect':false}
 
 // 获取用户登录后  后端返回监听
 var loginObject = {
@@ -52086,4 +52086,4 @@ exports.gameOverObject = gameOverObject;
 /***/ })
 
 /******/ });
-//# sourceMappingURL=main_d855555b.js.map
+//# sourceMappingURL=main_db5f0617.js.map
