@@ -3,7 +3,28 @@ html,body{
   padding: 0;
   height: 100%;
   font-size: 50px;
+  // font-size: -moz-calc(100vw/7.2);
+  // font-size: -webkit-calc(100vw/7.2);
+  // font-size: calc(100vw/7.2);
 }
+
+// @media screen and (min-width:320px) {
+//   html {
+//       font-size:44px;
+//   }
+// }
+
+// @media screen and (min-width:360px) {
+//   html {
+//       font-size:50px;
+//   }
+// }
+// @media screen and (min-width:414px) {
+//   html {
+//       font-size:57.5px;
+//   }
+// }
+
 * {
   margin: 0;
   padding: 0;
