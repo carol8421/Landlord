@@ -51965,7 +51965,7 @@ _reactDom2.default.render(_react2.default.createElement(
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
-var socket = __webpack_require__(/*! socket.io-client */ "./node_modules/socket.io-client/lib/index.js")('https://120.79.220.248'); //{'reconnect':false,'auto connect':false}
+var socket = __webpack_require__(/*! socket.io-client */ "./node_modules/socket.io-client/lib/index.js")('https://landlord.fuyunfeng.top'); //{'reconnect':false,'auto connect':false}
 // const socket = require('socket.io-client')('http://172.16.12.145:9093');//{'reconnect':false,'auto connect':false}
 
 // 获取用户登录后  后端返回监听
@@ -52086,4 +52086,4 @@ exports.gameOverObject = gameOverObject;
 /***/ })
 
 /******/ });
-//# sourceMappingURL=main_474ee076.js.map
+//# sourceMappingURL=main_bd4ec519.js.map
