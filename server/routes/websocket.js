@@ -502,34 +502,36 @@ function gameOverClear(i) {
 exports.websocket = function websocket(socket) {
     // 用户登录
     socket.on('login', (data) => {
-        let num = parseInt(Math.random() * 10000);
-        let sql = 'select * from users where account=' + '"' + data.account + '"';
-        let insert = "INSERT INTO `test`.`t_player` (`party_id`, `player_name`, `player_card`, `room_id`, `player_pwd` ,`player_status`) VALUES ('YH" + num + "', '" + data.account + "', null, null, '" + data.password + "','Y')";
-        connect.query(sql, function (err, result) {
-            if (err) {
-                console.log('[SELECT ERROR] - ', err.message);
-                return;
-            }
-            if (result.length > 0) {
-                if (result[0].password === data.password) {
-                    sendData.code = 200;
-                    sendData.msg = '登陆成功';
-                    sendData.data = result[0]
-                    socket.emit('login', sendData);
-                    return;
+        let userSelectSql = 'select * from users where account=' + '"' + data.account + '"';
+        connect.sqlQuery(userSelectSql)
+            .then((result) => {
+                if (result.length > 0) {
+                    if (result[0].password === data.password) {
+                        sendData.code = 200;
+                        sendData.msg = '登陆成功';
+                        sendData.data = result[0]
+                        socket.emit('login', sendData);
+                        return;
+                    } else {
+                        sendData.code = 201;
+                        sendData.msg = '密码错误';
+                        socket.emit('login', sendData);
+                        return;
+                    }
                 } else {
                     sendData.code = 201;
-                    sendData.msg = '密码错误';
+                    sendData.msg = '账号不存在';
                     socket.emit('login', sendData);
                     return;
                 }
-            } else {
+            })
+            .catch((err) => {
+                console.log('login insert err', err)
                 sendData.code = 201;
-                sendData.msg = '账号不存在';
+                sendData.msg = '服务端错误';
                 socket.emit('login', sendData);
-                return;
-            }
-        })
+            })
+
     });
 
     //获取最新大厅房间数据

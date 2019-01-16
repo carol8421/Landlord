@@ -1,49 +1,43 @@
-/**
- * Created by ex-wangxin on 2018/9/13.
- */
-var mysql = require("mysql");
+// 数据库连接
+var mysql = require('mysql');
 
-var pool = mysql.createConnection({
-    /*host     : 'localhost',
+//创建连接池
+var poll = mysql.createPool({
+    host: '120.79.220.248',
     port: '3306',
-    user     : 'root',
-    password : '123',
-    database: 'test',
-    password : '123456',
-    database: 'landlord',
-    typeCast: true,             // 是否把结果值转换为原生的 javascript 类型*!/*/
-
-
-    // host     : 'localhost',
-    // port: '3306',
-    // user     : 'root',
-    // password : '123456',
-    // database: 'wx',
-    // typeCast: true,             // 是否把结果值转换为原生的 javascript 类型
-
-    host     : '120.79.220.248',
-    port: '3306',
-    user     : 'root',
-    password : 'Fuyf961010',
-    database: 'landlord',
-    typeCast: true,             // 是否把结果值转换为原生的 javascript 类型
-    
+    user: 'root',
+    password: 'Fuyf961010',
+    database: 'landlord'
 });
 
 
 
-pool.connect(function(err,connection){
-    if(err){
-        console.log("数据库连接失败",err);
-    }else{
-		console.log("数据库连接成功");
-    }
-});
-function query(sql,callback){
-    pool.query(sql, function (err,rows) {
-        callback(err,rows);
-        //pool.end();
+/** 
+ * Promise 封装 连接池 查询 方法
+ * @param {string}  sql  sql查询语句
+ * @param {Array}  param sql查询语句 携带参数  如insert时  可不传 默认false
+ * @Fuyf 2019/01/16
+ * */ 
+
+function sqlQuery(sql, param = false, callBack) {
+    return new Promise((reslove, reject) => {
+        poll.getConnection((error, conn) => {//连接池建立连接
+            if (error) {
+                console.log("databases connect error", error)
+                return reject({ msg: '连接失败！', err: err });
+            } else {
+                conn.query(sql, param, (err, result) => {
+                    conn.release();// 释放连接池的连接  
+                    if (err) reject({ msg: '查询失败！', err: err });
+                    reslove(result);
+                });
+            }
+        });
+        
     });
 }
 
-exports.query =query;
+module.exports = {
+    sqlQuery
+}
+
